@@ -1,1 +1,1 @@
-# Gestao_de_Estoque_e_Vendas-WEB2
+# ads-pw2-2024-2-estrutura-base
